@@ -1,0 +1,7 @@
+myAwesomeMatrix Test 8
+test
+ed!# 3 2 3 5 2 #!de
+ed!# 2 2 9 2 8 #!de
+ed!# 3 9 8 2 3 #!de
+ed!# 5 2 2 2 2 #!de
+ed!# 2 8 3 2 5 #!de

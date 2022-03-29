@@ -1,0 +1,7 @@
+Basic Overloaded '+' Calculations
+test
+ed!# 7 12 6 10 12 #!de
+ed!# 5 11 10 11 7 #!de
+ed!# 9 7 15 11 15 #!de
+ed!# 4 2 7 6 9 #!de
+ed!# 9 5 7 5 6 #!de

@@ -1,0 +1,5 @@
+Norm methods Square
+One Norm
+27
+Infinity Norm
+27
