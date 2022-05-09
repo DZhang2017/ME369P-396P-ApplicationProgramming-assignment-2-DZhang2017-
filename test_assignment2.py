@@ -78,6 +78,10 @@ def test_myAwesomeMatrix():
             with open(test_output, 'r') as expected_out:
                 expected_out = expected_out.read()
 
+            print(expected_out)
+            print('\n lick my ASS\n')
+            print(my_output)
+
             assert expected_out in my_output
 
 def test_myCalculator2A():
@@ -194,5 +198,11 @@ def test_myCalculator2C():
             #stdout is to console again
             sys.stdout = old_stdout
             my_output = my_output.getvalue()
-
             assert str(test_output) in my_output
+            
+
+
+test_myAwesomeMatrix()
+#test_myCalculator2A()
+#test_myCalculator2B()
+#test_myCalculator2C()
